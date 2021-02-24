@@ -13,7 +13,7 @@ const (
 	ApplicationVersion = "0.0.29"
 
 	// GitOpsVersion the version of the jx gitops plugin
-	GitOpsVersion = "0.2.2"
+	GitOpsVersion = "0.2.8"
 
 	// HealthVersion the version of the jx health plugin
 	HealthVersion = "0.0.71"
@@ -28,25 +28,25 @@ const (
 	OctantJXVersion = "0.0.43"
 
 	// PipelineVersion the version of the jx pipeline plugin
-	PipelineVersion = "0.0.106"
+	PipelineVersion = "0.0.109"
 
 	// PreviewVersion the version of the jx preview plugin
 	PreviewVersion = "0.0.144"
 
 	// ProjectVersion the version of the jx project plugin
-	ProjectVersion = "0.0.189"
+	ProjectVersion = "0.0.191"
 
 	// PromoteVersion the version of the jx promote plugin
-	PromoteVersion = "0.0.237"
+	PromoteVersion = "0.0.240"
 
 	// SecretVersion the version of the jx secret plugin
-	SecretVersion = "0.1.0"
+	SecretVersion = "0.1.2"
 
 	// TestVersion the version of the jx test plugin
-	TestVersion = "0.0.37"
+	TestVersion = "0.0.39"
 
 	// VerifyVersion the version of the jx verify plugin
-	VerifyVersion = "0.0.65"
+	VerifyVersion = "0.0.70"
 )
 
 var (
