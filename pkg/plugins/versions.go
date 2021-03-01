@@ -13,10 +13,10 @@ const (
 	ApplicationVersion = "0.0.29"
 
 	// GitOpsVersion the version of the jx gitops plugin
-	GitOpsVersion = "0.2.8"
+	GitOpsVersion = "0.2.10"
 
 	// HealthVersion the version of the jx health plugin
-	HealthVersion = "0.0.71"
+	HealthVersion = "0.0.72"
 
 	// JenkinsVersion the version of the jx jenkins plugin
 	JenkinsVersion = "0.0.29"
@@ -25,10 +25,10 @@ const (
 	OctantVersion = "0.17.0"
 
 	// OctantJXVersion the default version of octant-jx plugin to use
-	OctantJXVersion = "0.0.43"
+	OctantJXVersion = "0.0.44"
 
 	// PipelineVersion the version of the jx pipeline plugin
-	PipelineVersion = "0.0.109"
+	PipelineVersion = "0.0.114"
 
 	// PreviewVersion the version of the jx preview plugin
 	PreviewVersion = "0.0.144"
@@ -40,7 +40,7 @@ const (
 	PromoteVersion = "0.0.240"
 
 	// SecretVersion the version of the jx secret plugin
-	SecretVersion = "0.1.2"
+	SecretVersion = "0.1.5"
 
 	// TestVersion the version of the jx test plugin
 	TestVersion = "0.0.39"
